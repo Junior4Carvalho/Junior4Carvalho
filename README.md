@@ -17,7 +17,8 @@
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Junior-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Junior-pic" height="150" style="border-radius:50px;" 
+  <img align="right" alt="Junior-pic" height="150" width="150" style="border-radius:500px;" 
+   src="https://scontent.flad1-2.fna.fbcdn.net/v/t39.30808-6/279796629_529191765278172_8472652769737157005_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=Mub3vhZNAKQAX9YZr3e&_nc_ht=scontent.flad1-2.fna&oh=00_AT9qYDo4UK_NSC_XVTFriEi20wUnnP0_YhYKZDfw4vGgeg&oe=62DA10C6">
   ##
  
 <div> 
