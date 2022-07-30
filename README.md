@@ -22,7 +22,7 @@
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Junior-pic" height="150" width="150" style="border-radius:500px;" 
-   src="https://www.instagram.com/p/CgnG9ISo5Kt/">
+   src="https://www.facebook.com/photo/?fbid=585584322972249&set=a.113784030152283">
   
            
           
