@@ -22,7 +22,7 @@
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Junior-pic" height="150" width="150" style="border-radius:500px;" 
-   src="https://www.facebook.com/photo/?fbid=585584322972249&set=a.113784030152283">
+   src="https://scontent.flad1-1.fna.fbcdn.net/v/t39.30808-6/295640392_585584319638916_6914292959508051922_n.jpg?stp=cp1_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=FHAlxYDppvsAX_v27Oy&_nc_oc=AQkzIlJu_Jwt9sjFmVH_jOE3u4Bj3JsDe18yHE2Ox98ZY_G3h5W3AYix2zsAA6eVkHo&_nc_ht=scontent.flad1-1.fna&oh=00_AT9ogYWo9tdKb8TNWvUlfzCfGJWN--F3pe-_xvVcV7ZTog&oe=62E964B9">
   
            
           
