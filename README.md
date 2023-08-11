@@ -33,4 +33,4 @@
 </div>
 
 ## Contacto:
- - Email: Carlos.JCC1010@gmail.com
+ - Email: carlos.jc1010@gmail.com
