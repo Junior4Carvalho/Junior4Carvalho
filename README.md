@@ -1,7 +1,7 @@
 ### Hi! I'm Junior Carvalho 🖐️
 
 - 🔭 I’m currently working on Front-End and Mobile development
-- 🌱 I’m currently learning Python, JS, and SQL
+
 
 
 <div align="center">
